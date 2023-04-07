@@ -11,7 +11,19 @@ namespace Empwage
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome To The Employee Wage Program");
-            Console.ReadLine();
+          
+            int IS_FULL_TIME = 1;
+            Random random= new Random();
+            int empCheck = random.Next(0,2);
+            if(empCheck == IS_FULL_TIME)
+            {
+                Console.WriteLine("Employee is Present");
+            }
+            else
+            {
+                Console.WriteLine("Employee is Absent");
+            }
+           Console.ReadLine();
         }
     }
 }
