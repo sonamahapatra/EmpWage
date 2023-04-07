@@ -1,0 +1,8 @@
+C:\Users\SONALI MAHAPATRA\276\Empwage\Empwage\bin\Debug\Empwage.exe.config
+C:\Users\SONALI MAHAPATRA\276\Empwage\Empwage\bin\Debug\Empwage.exe
+C:\Users\SONALI MAHAPATRA\276\Empwage\Empwage\bin\Debug\Empwage.pdb
+C:\Users\SONALI MAHAPATRA\276\Empwage\Empwage\obj\Debug\Empwage.csproj.AssemblyReference.cache
+C:\Users\SONALI MAHAPATRA\276\Empwage\Empwage\obj\Debug\Empwage.csproj.SuggestedBindingRedirects.cache
+C:\Users\SONALI MAHAPATRA\276\Empwage\Empwage\obj\Debug\Empwage.csproj.CoreCompileInputs.cache
+C:\Users\SONALI MAHAPATRA\276\Empwage\Empwage\obj\Debug\Empwage.exe
+C:\Users\SONALI MAHAPATRA\276\Empwage\Empwage\obj\Debug\Empwage.pdb
